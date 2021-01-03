@@ -1,4 +1,3 @@
-# COMP3900-f13A-405_Found Capstone Project
 ## Instructions to run the app from the root directory
 1. Ensure sure the setup script is executable by running
     ```chmod +x setup.sh```
