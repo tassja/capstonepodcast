@@ -6,3 +6,6 @@
 3. Spin up the application by running 
 ```npm run dev```
 4. Open a Chrome browser (or Firefox) and visit `http://localhost:3000`
+
+## Screenshots of App
+![Homepage Search](/screenshots/screen1.png?raw=true "Homepage Search")
