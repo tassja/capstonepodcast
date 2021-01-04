@@ -8,4 +8,11 @@
 4. Open a Chrome browser (or Firefox) and visit `http://localhost:3000`
 
 ## Screenshots of App
-![Homepage Search](/screenshots/screen1.png?raw=true "Homepage Search")
+# Homepage Search
+![HomepageSearch](/screenshots/screen1.png?raw=true "Homepage Search")
+# Detail View of Podcast
+![DetailView](/screenshots/screen2.png?raw=true "Detail View of Podcast")
+# Detail View of an Episode
+![DetailViewE](/screenshots/screen3.png?raw=true "Detail View of an Episode")
+# User Page - custom recommendations & listening history
+![userP](/screenshots/screen4.png?raw=true "User Page")
